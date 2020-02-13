@@ -1,0 +1,16 @@
+{
+	"d0bcfc0c": "Bankroll()",
+	"abe2a16e": "FeeRate()",
+	"3f1887e9": "Gamblers_Until_Jackpot()",
+	"5e377b51": "Jackpot()",
+	"11bcd830": "MinDeposit()",
+	"b034d5aa": "Total_Deposits()",
+	"fd330b26": "Total_Gamblers()",
+	"8a3a84a8": "Total_Payouts()",
+	"e97dcb62": "enter()",
+	"148bea6b": "gamblerlist(uint256)",
+	"8da5cb5b": "owner()",
+	"45596e2e": "setFeeRate(uint256)",
+	"8fcc9cfb": "setMinDeposit(uint256)",
+	"13af4035": "setOwner(address)"
+}

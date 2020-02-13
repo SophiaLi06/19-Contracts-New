@@ -1,0 +1,4 @@
+{
+	"7b9a60e1": "propose(string,bytes32)",
+	"9f2ce678": "vote(bytes32,bool)"
+}

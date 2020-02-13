@@ -1,0 +1,8 @@
+{
+	"b69ef8a8": "balance()",
+	"d0e30db0": "deposit()",
+	"0363ea1e": "increaseYear()",
+	"8da5cb5b": "owner()",
+	"75df596a": "systemBalance()",
+	"2e1a7d4d": "withdraw(uint256)"
+}

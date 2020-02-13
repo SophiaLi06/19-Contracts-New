@@ -1,0 +1,15 @@
+{
+	"b3cc167a": "bidIncrement()",
+	"8fa8b790": "cancelAuction()",
+	"3f9942ff": "canceled()",
+	"083c6323": "endBlock()",
+	"ce10cf80": "fundsByBidder(address)",
+	"4979440a": "getHighestBid()",
+	"91f90157": "highestBidder()",
+	"f5b56c56": "highestBindingBid()",
+	"c623674f": "ipfsHash()",
+	"8da5cb5b": "owner()",
+	"ecfc7ecc": "placeBid()",
+	"48cd4cb1": "startBlock()",
+	"3ccfd60b": "withdraw()"
+}

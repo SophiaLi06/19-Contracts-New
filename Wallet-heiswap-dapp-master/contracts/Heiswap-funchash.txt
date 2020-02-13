@@ -1,0 +1,10 @@
+{
+	"62230498": "withdraw(address,uint256,uint256,uint256,uint256[2],uint256[])",
+	"143ad356": "deposit(uint256[2])",
+	"c0c4cbbd": "getCurrentRingIdx(uint256)",
+	"ded0ed16": "getParticipants(uint256,uint256)",
+	"d5fce735": "getPublicKeys(uint256,uint256)",
+	"9f1961e6": "getRingHash(uint256,uint256)",
+	"7c0ffaa2": "getRingMaxParticipants()",
+	"18a7cca8": "relayerAddress()"
+}

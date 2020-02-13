@@ -1,0 +1,15 @@
+{
+	"79131a19": "games(address)",
+	"a87d942c": "getCount()",
+	"729e6f2b": "getGameChance()",
+	"1865c57d": "getState()",
+	"46f76648": "getTotalEthSended()",
+	"9e92c991": "getTotalRollMade()",
+	"2e5b2168": "maxBet()",
+	"9619367d": "minBet()",
+	"8da5cb5b": "owner()",
+	"da38abb3": "randomGen(address)",
+	"1f7b4f30": "roll(uint256)",
+	"9288cebc": "totalRollsByUser(address)",
+	"f2fde38b": "transferOwnership(address)"
+}

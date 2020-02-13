@@ -1,0 +1,20 @@
+{
+	"52375093": "m_lastDay()",
+	"7065cb48": "addOwner(address)",
+	"f00d4b5d": "changeOwner(address,address)",
+	"ba51a6df": "changeRequirement(uint256)",
+	"797af627": "confirm(bytes32)",
+	"b61d27f6": "execute(address,uint256,bytes)",
+	"c2cf7326": "hasConfirmed(bytes32,address)",
+	"2f54bf6e": "isOwner(address)",
+	"cbf0b0c0": "kill(address)",
+	"f1736d86": "m_dailyLimit()",
+	"4123cb6b": "m_numOwners()",
+	"746c9171": "m_required()",
+	"659010e7": "m_spentToday()",
+	"173825d9": "removeOwner(address)",
+	"5c52c2f5": "resetSpentToday()",
+	"b75c7dc6": "revoke(bytes32)",
+	"b20d30a9": "setDailyLimit(uint256)",
+	"54fd4d50": "version()"
+}

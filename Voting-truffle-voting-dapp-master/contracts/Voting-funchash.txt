@@ -1,0 +1,7 @@
+{
+	"2fdae3c5": "addProposal(string)",
+	"798974dd": "getNumProposals()",
+	"c7f758a8": "getProposal(uint256)",
+	"013cf08b": "proposals(uint256)",
+	"b384abef": "vote(uint256,uint256)"
+}

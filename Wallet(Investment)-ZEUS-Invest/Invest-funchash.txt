@@ -1,0 +1,11 @@
+{
+	"0ef67887": "Balance()",
+	"e4dedc7f": "DeleteContract()",
+	"a1fb1de9": "Message()",
+	"b2cb9f05": "Total_Deposited()",
+	"e1ef42b1": "Total_Investors()",
+	"b67c838f": "Total_Paid_Out()",
+	"e4b2fb79": "depositors(uint256)",
+	"e97dcb62": "enter()",
+	"8da5cb5b": "owner()"
+}

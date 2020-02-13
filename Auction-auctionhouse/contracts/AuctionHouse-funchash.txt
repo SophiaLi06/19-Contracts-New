@@ -1,0 +1,22 @@
+{
+	"53488f0a": "activateAuction(uint256)",
+	"b7d534a1": "addrToString(address)",
+	"571a26a0": "auctions(uint256)",
+	"88c93e22": "auctionsBidOnByUser(address,uint256)",
+	"9ecbab23": "auctionsRunByUser(address,uint256)",
+	"96b5a755": "cancelAuction(uint256)",
+	"db7162a2": "createAuction(string,string,address,string,uint256,uint256,uint256,uint256,address)",
+	"b9a2de3a": "endAuction(uint256)",
+	"ede05887": "getActiveContractRecordConcat(string)",
+	"78bd7935": "getAuction(uint256)",
+	"c44e6640": "getAuctionCount()",
+	"24a12edf": "getAuctionIdForUserAndIdx(address,uint256)",
+	"9abb2c16": "getAuctionsCountForUser(address)",
+	"4bc32ea2": "getBidCountForAuction(uint256)",
+	"1313c739": "getBidForAuctionByIdx(uint256,uint256)",
+	"59e54095": "getRefundValue()",
+	"5c622a0e": "getStatus(uint256)",
+	"5609825e": "partyOwnsAsset(address,address,string)",
+	"9979ef45": "placeBid(uint256)",
+	"110f8874": "withdrawRefund()"
+}

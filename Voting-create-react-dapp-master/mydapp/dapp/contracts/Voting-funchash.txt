@@ -1,0 +1,10 @@
+{
+	"b13c744b": "candidateList(uint256)",
+	"fdbc4006": "getCandidateList()",
+	"72d2d965": "getCandidateListLength()",
+	"41c0e1b5": "kill()",
+	"2f265cf7": "totalVotesFor(bytes32)",
+	"392e6678": "validCandidate(bytes32)",
+	"cc9ab267": "voteForCandidate(bytes32)",
+	"7021939f": "votesReceived(bytes32)"
+}

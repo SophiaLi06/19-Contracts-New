@@ -1,0 +1,14 @@
+{
+	"d5f4f0b3": "addTokens()",
+	"786b844b": "closeGame()",
+	"98d5fdca": "getPrice()",
+	"22666da6": "makeGuess(uint256)",
+	"d18a524a": "makeUser()",
+	"8da5cb5b": "owner()",
+	"502c9bd5": "userAddresses(uint256)",
+	"445a5fa3": "userGuesses(address)",
+	"ed498fa8": "userTokens(address)",
+	"a87430ba": "users(address)",
+	"ed7a4e0b": "winnerAddress()",
+	"98da61af": "winningGuess()"
+}

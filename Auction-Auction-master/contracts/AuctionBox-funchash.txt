@@ -1,0 +1,5 @@
+{
+	"571a26a0": "auctions(uint256)",
+	"63efaa35": "createAuction(string,uint256,string)",
+	"d1f28df6": "returnAllAuctions()"
+}

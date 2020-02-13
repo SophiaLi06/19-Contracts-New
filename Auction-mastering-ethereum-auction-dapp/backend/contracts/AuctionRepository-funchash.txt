@@ -1,0 +1,15 @@
+{
+	"5f93de49": "auctionBids(uint256,uint256)",
+	"c8756cda": "auctionOwner(address,uint256)",
+	"571a26a0": "auctions(uint256)",
+	"26b7aeea": "bidOnAuction(uint256)",
+	"96b5a755": "cancelAuction(uint256)",
+	"e1b96581": "createAuction(address,uint256,string,string,uint256,uint256)",
+	"e8083863": "finalizeAuction(uint256)",
+	"18111ada": "getAuctionById(uint256)",
+	"d56aa558": "getAuctionsCountOfOwner(address)",
+	"b1b61bfa": "getAuctionsOf(address)",
+	"4008f9c0": "getBidsCount(uint256)",
+	"a87d942c": "getCount()",
+	"da4e364f": "getCurrentBid(uint256)"
+}

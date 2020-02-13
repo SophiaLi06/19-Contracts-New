@@ -1,0 +1,6 @@
+{
+	"3477ee2e": "candidates(uint256)",
+	"2d35a8a2": "candidatesCount()",
+	"0121b93f": "vote(uint256)",
+	"a3ec138d": "voters(address)"
+}

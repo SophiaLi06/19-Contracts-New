@@ -1,0 +1,9 @@
+{
+	"60981705": "getPersonDetails(uint256)",
+	"38af3eed": "beneficiary()",
+	"598647f8": "bid(uint256,uint256)",
+	"bfb231d2": "items(uint256)",
+	"1aa3a008": "register()",
+	"952587d6": "revealWinners()",
+	"a2fb1175": "winners(uint256)"
+}

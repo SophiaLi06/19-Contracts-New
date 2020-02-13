@@ -1,0 +1,7 @@
+{
+	"65372147": "result()",
+	"be9a6555": "start()",
+	"1f2698ab": "started()",
+	"07da68f5": "stop()",
+	"4b9f5c98": "vote(bool)"
+}
