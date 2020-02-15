@@ -1,0 +1,23 @@
+{
+	"b4ae641c": "arrayLimit()",
+	"4e71e0c8": "claimOwnership()",
+	"df8de3e7": "claimTokens(address)",
+	"591552da": "currentFee(address)",
+	"eff8e748": "discountRate(address)",
+	"e4e1f29b": "discountStep()",
+	"ddca3f43": "fee()",
+	"5c60da1b": "implementation()",
+	"c4d66de8": "initialize(address)",
+	"158ef93e": "initialized()",
+	"ab883d28": "multisendEther(address[],uint256[])",
+	"0b66f3f5": "multisendToken(address,address[],uint256[])",
+	"8da5cb5b": "owner()",
+	"e30c3978": "pendingOwner()",
+	"ee8a0a30": "setArrayLimit(uint256)",
+	"2f781393": "setDiscountStep(uint256)",
+	"69fe0e2d": "setFee(uint256)",
+	"f2fde38b": "transferOwnership(address)",
+	"c1258f69": "txCount(address)",
+	"6fde8202": "upgradeabilityOwner()",
+	"54fd4d50": "version()"
+}
